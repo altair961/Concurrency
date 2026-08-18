@@ -1,0 +1,13 @@
+# TLA+ generated files
+*.aux
+*.out
+*.log
+*.old
+*_trace_*.tlc
+
+# TLC generated state graph/output
+states/
+
+# VS Code
+.vscode/
+
